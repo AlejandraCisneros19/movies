@@ -1,0 +1,11 @@
+//Desplegar el package.json:
+    npm init
+
+//Instalar dependencia de nodemon y morgan
+    npm install nodemon
+    npm install morgan
+    npm install express
+
+//Iniciar proyecto
+    npm start
+    (Se agrega en Scripts del package.json)
